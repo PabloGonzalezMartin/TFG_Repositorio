@@ -1,0 +1,16 @@
+# Ignorar datasets en github
+clasificador_binario/dataset_clasificador_binario/
+clasificador_enfermedades_oculares/dataset_enfermedades_oculares/
+clasificador_retinopatia_diabetica/dataset_retinopatia_diabetica/
+
+
+# Ignorar archivo MNIST
+mnist.npz
+
+
+#Ignorar entorno virtual
+.venv/
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
